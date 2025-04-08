@@ -1,0 +1,45 @@
+# Data directory
+data/
+
+# Results directory
+results/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment
+venv/
+env/
+.env
+.venv
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Model checkpoints
+*.pth
+*.pt
+*.h5
+
+# OS specific files
+.DS_Store
+Thumbs.db
